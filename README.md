@@ -1,7 +1,7 @@
 # SteamVR_LowFPS_Fix
 [![Thunderstore Badge](https://modding.resonite.net/assets/available-on-thunderstore.svg)](https://thunderstore.io/c/resonite/)
 
-A [Resonite](https://resonite.com/) mod that fixes low FPS when VR headset goes into standby.
+A [Resonite](https://resonite.com/) mod that fixes low FPS in F8 desktop mode when Quest VR headset goes into standby.
 
 Fixes https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/2151
 
