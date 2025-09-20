@@ -24,7 +24,7 @@ outdir = "./build"
 # Copy the compiled DLL to the plugins folder in the mod package
 [[build.copy]]
 source = "./SteamVR_LowFPS_Fix/bin/Release/SteamVR_LowFPS_Fix.dll"
-target = "plugins/SteamVR_LowFPS_Fix/"
+target = "Renderer/BepInEx/plugins/SteamVR_LowFPS_Fix/"
 
 # Include the PDB file for better debugging support
 # [[build.copy]]
