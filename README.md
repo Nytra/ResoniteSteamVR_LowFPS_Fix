@@ -6,7 +6,7 @@ A [Resonite](https://resonite.com/) mod that fixes low FPS when VR headset goes 
 Fixes https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/2151
 
 ## Installation (Manual)
-1. Install [BepisLoader](https://github.com/ResoniteModding/BepisLoader) and https://thunderstore.io/c/resonite/p/ResoniteModding/BepInExRenderer/ and https://thunderstore.io/c/resonite/p/ResoniteModding/RenderiteHook/ for Resonite.
+1. Install [BepisLoader](https://github.com/ResoniteModding/BepisLoader) and [BepInExRenderer](https://thunderstore.io/c/resonite/p/ResoniteModding/BepInExRenderer/) and [RenderiteHook](https://thunderstore.io/c/resonite/p/ResoniteModding/RenderiteHook/) for Resonite.
 2. Download the latest release ZIP file (e.g., `Nytra-SteamVR_LowFPS_Fix-1.0.0.zip`) from the [Releases](https://github.com/Nytra/ResoniteSteamVR_LowFPS_Fix/releases) page.
 3. Extract the ZIP and copy the `plugins` folder to your BepInEx folder in your Resonite Renderer installation directory:
    - **Default location:** `C:\Program Files (x86)\Steam\steamapps\common\Resonite\Renderer\BepInEx\`
