@@ -3,6 +3,8 @@
 
 A [Resonite](https://resonite.com/) mod that fixes low FPS when VR headset goes into standby.
 
+Fixes https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/2151
+
 ## Installation (Manual)
 1. Install [BepisLoader](https://github.com/ResoniteModding/BepisLoader) for Resonite.
 2. Download the latest release ZIP file (e.g., `Nytra-SteamVR_LowFPS_Fix-1.0.0.zip`) from the [Releases](https://github.com/Nytra/ResoniteSteamVR_LowFPS_Fix/releases) page.
