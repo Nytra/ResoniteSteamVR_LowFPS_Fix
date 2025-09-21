@@ -6,7 +6,7 @@ using Valve.VR;
 
 namespace SteamVR_LowFPS_Fix;
 
-[BepInPlugin("Nytra.SteamVR_LowFPS_Fix", "SteamVR Low FPS Fix", "1.0.0")]
+[BepInPlugin("Nytra.SteamVR_LowFPS_Fix", "SteamVR Low FPS Fix", "1.0.1")]
 public class Plugin : BaseUnityPlugin
 {
     public static ManualLogSource? Log;
