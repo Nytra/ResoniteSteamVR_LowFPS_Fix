@@ -4,6 +4,8 @@
 
 - Updated readme with more info
 - Updated dependency versions
+- Added changelog to package
+- Updated package description
 
 ## [1.0.0] - 2025-09-20
 
